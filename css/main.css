@@ -104,7 +104,8 @@ a.link-text.nav-link:hover {
   -ms-flex-pack: center;
   -ms-flex-align: center;
   padding: 48px 24px 10px;
-  min-height: 80vh;
+  min-height: 60vh;
+  max-height: 60vh;
   background-color: #000;
   background-image: url('../images/nicolas-bichon-h4RpeU6FjxA-unsplash.jpg');
   background-attachment: scroll;
