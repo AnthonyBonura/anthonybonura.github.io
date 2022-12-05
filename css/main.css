@@ -51,6 +51,17 @@ p.paragraph.paragraph-2 {
   max-width: 1600px;
 }
 
+p.paragraph.paragraph-3 {
+  display: inline-block;
+  background-color: #fff;
+
+  -webkit-text-stroke-color: #f7f0f0;
+}
+
+p.paragraph.paragraph-4 {
+  background-color: #fff;
+}
+
 a.link-text.logo-nav-link {
   color: #fff;
   text-decoration: none;
