@@ -59,7 +59,15 @@ p.paragraph.paragraph-3 {
 }
 
 p.paragraph.paragraph-4 {
+  display: inline-block;
   background-color: #fff;
+}
+
+p.paragraph.paragraph-5 {
+  display: inline-block;
+  background-color: #fff;
+
+  -webkit-text-stroke-color: #fff;
 }
 
 a.link-text.logo-nav-link {
@@ -204,6 +212,10 @@ a.responsive-picture.picture-link-4 {
 
 a.responsive-picture.picture-link-5 {
   padding-top: 6px;
+}
+
+a.responsive-picture.picture-link-6 {
+  width: 25%;
 }
 
 @media screen and (max-width: 75rem) {
