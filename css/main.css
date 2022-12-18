@@ -70,6 +70,13 @@ p.paragraph.paragraph-5 {
   -webkit-text-stroke-color: #fff;
 }
 
+p.paragraph.paragraph-6 {
+  display: inline-block;
+  background-color: #fff;
+
+  -webkit-text-stroke-color: #fff;
+}
+
 a.link-text.logo-nav-link {
   color: #fff;
   text-decoration: none;
@@ -215,6 +222,10 @@ a.responsive-picture.picture-link-5 {
 }
 
 a.responsive-picture.picture-link-6 {
+  width: 25%;
+}
+
+a.responsive-picture.picture-link-7 {
   width: 25%;
 }
 
