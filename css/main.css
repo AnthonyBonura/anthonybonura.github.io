@@ -77,6 +77,11 @@ p.paragraph.paragraph-6 {
   -webkit-text-stroke-color: #fff;
 }
 
+p.paragraph.paragraph-7 {
+  display: inline-block;
+  background-color: #fff;
+}
+
 a.link-text.logo-nav-link {
   color: #fff;
   text-decoration: none;
@@ -201,7 +206,7 @@ a.link-text.nav-link:hover {
 }
 
 a.responsive-picture.picture-link-1 {
-  width: 25%;
+  width: 20%;
 }
 
 a.responsive-picture.picture-link-2 {
@@ -222,11 +227,16 @@ a.responsive-picture.picture-link-5 {
 }
 
 a.responsive-picture.picture-link-6 {
-  width: 25%;
+  width: 20%;
 }
 
 a.responsive-picture.picture-link-7 {
-  width: 25%;
+  width: 20%;
+}
+
+a.responsive-picture.picture-link-8 {
+  display: block;
+  width: 20%;
 }
 
 @media screen and (max-width: 75rem) {
