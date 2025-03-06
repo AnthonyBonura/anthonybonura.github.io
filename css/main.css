@@ -78,6 +78,16 @@ p.paragraph a.paragraph-text-15 {
   color: #fff;
 }
 
+p.paragraph span.paragraph-text-16 {
+  color: #fff;
+  font-size: 1.5625rem;
+}
+
+p.paragraph span.paragraph-text-17 {
+  color: #fff;
+  font-size: 1.5625rem;
+}
+
 a.link-text.logo-nav-link {
   color: #fff;
   text-decoration: none;
@@ -183,8 +193,8 @@ body.body-1 {
 }
 
 .container.hero-content-region {
-  padding-top: 17px;
-  padding-bottom: 48px;
+  padding-top: 0;
+  padding-bottom: 56px;
   max-width: 800px;
 }
 
